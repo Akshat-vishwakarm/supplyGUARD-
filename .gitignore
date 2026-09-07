@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+
+.cache/
+.local/
+.config/
+.upm/
+.agents/
+.vercel/
+
+.env
+.env.*
+!.env.example
